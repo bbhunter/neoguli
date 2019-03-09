@@ -15,8 +15,8 @@ I thought that a good exercise was my (still very young) recon routine.
 - Automate finding js scripts and scraping them to find urls and secrets
 
 ## Mentions
-Gobuster: https://github.com/OJ/gobuster
-Dirsearch: https://github.com/maurosoria/dirsearch
-Amass: https://github.com/OWASP/Amass
-Waybackurls: https://github.com/tomnomnom/waybackurls
+- Gobuster: https://github.com/OJ/gobuster
+- Dirsearch: https://github.com/maurosoria/dirsearch
+- Amass: https://github.com/OWASP/Amass
+- Waybackurls: https://github.com/tomnomnom/waybackurls
 
